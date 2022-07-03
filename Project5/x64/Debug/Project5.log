@@ -1,0 +1,8 @@
+﻿  Common.cpp
+  HashTable.cpp
+C:\Users\Nikolay\source\repos\Лабораторная работа 4\Project5\HashTable.cpp(84,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Main.cpp
+  Map.cpp
+C:\Users\Nikolay\source\repos\Лабораторная работа 4\Project5\Map.cpp(143,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Project5.vcxproj -> C:\Users\Nikolay\source\repos\Лабораторная работа 4\x64\Debug\Лабораторная работа 4.exe
