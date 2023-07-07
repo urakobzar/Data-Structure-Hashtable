@@ -1,0 +1,24 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug/Лабораторная работа 4.pdb
+/x64/Debug/Лабораторная работа 4.exe
+/.vs/Лабораторная работа 4
+/Project5/x64/Debug/Common.obj
+/Project5/x64/Debug/HashTable.obj
+/Project5/x64/Debug/Main.obj
+/Project5/x64/Debug/Map.obj
+/Project5/x64/Debug/Project5.log
+/Project5/x64/Debug/vc143.idb
+/Project5/x64/Debug/vc143.pdb
+/Project5/x64/Debug/Лабораторная работа 4.exe.recipe
+/Project5/x64/Debug/Лабораторная работа 4.ilk
+/Project5/x64/Debug/Лаборато.98291282.tlog/CL.command.1.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/Cl.items.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/CL.read.1.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/CL.write.1.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/link.command.1.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/link.read.1.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/link.write.1.tlog
+/Project5/x64/Debug/Лаборато.98291282.tlog/Лабораторная работа 4.lastbuildstate
